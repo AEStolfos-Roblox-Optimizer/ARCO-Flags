@@ -28,4 +28,4 @@ Use with [Hone(™?)](https://www.hone.gg/), [BloatyNosy](https://www.github.com
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually, but keep in mind to use this repository instead.
 
 ## Copyright Notice
-I, AEStolfo, have made a separate project based on the amazing work by [OptiFury](https://www.optifury.com), [Roblox Client Optimizer™](https://rco.simulhost.com/). Please do not sue me, as I'm planning on creating big additions.
+I, AEStolfo, have made a separate project based on the amazing work by [OptiFury](https://www.optifury.com): [Roblox Client Optimizer™](https://rco.simulhost.com/). Please do not sue me, as I'm planning on creating big additions.
